@@ -1,0 +1,71 @@
+h1 {
+    text-align: left;
+    background-color:  rgb(15, 15, 20, .75);
+    color: #6cbadf;
+    font: bold
+    font-size: 40px;
+    margin: 1px
+  }
+  
+  h2 {
+    text-align: center;
+    background-color: rgba(40, 255, 139, 0.75);
+    color: black;
+    font-size: 18px;
+    margin: 20px;
+  }
+  
+  h3 {
+    color: white;
+    font-size: 20px;
+    background-color: rgb(15, 15, 50, .4);
+    margin: 10px;
+    padding: 100px;
+  }
+  
+  img {
+    box-shadow: 10px 10px 5px black;
+  }
+  
+  section {
+    background-color: rgb(15, 15, 50, .4);
+    margin: 10px;
+  }
+  
+  p {
+    font-size: 15px;
+    color: gray;
+  }
+  
+  ul {
+    border-style: solid;
+    color:aquamarine;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+
+  li {display: inline; }
+
+
+  li a {
+    display: block;
+    width: 60px;
+  }
+
+  .box {
+    height: 400px;
+    padding: 20px;
+    color: #fff;
+    background: deepskyblue;
+  }
+
+  body { background-color: rgb(10, 10, 30);
+    background-image: url('./visualizations/Dodeca.jpg');
+
+  }
+  
+  a {
+      color: navy;
+  }
